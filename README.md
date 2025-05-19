@@ -149,14 +149,6 @@ Response structure:
 }
 ```
 
-## Potential Improvements
-
-- Add comprehensive unit and widget tests
-- Implement persistent caching for offline access
-- Add search, filter, and sort functionality
-- Enhance UI with animations and transitions
-- Implement more advanced error recovery strategies
-- Add user preferences and customization options
 
 ## License
 
